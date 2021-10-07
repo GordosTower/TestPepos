@@ -1,0 +1,7 @@
+C:\Users\idorv\source\repos\Trynagle\Trynagle\bin\Debug\Trynagle.exe.config
+C:\Users\idorv\source\repos\Trynagle\Trynagle\bin\Debug\Trynagle.exe
+C:\Users\idorv\source\repos\Trynagle\Trynagle\bin\Debug\Trynagle.pdb
+C:\Users\idorv\source\repos\Trynagle\Trynagle\obj\Debug\Trynagle.csproj.AssemblyReference.cache
+C:\Users\idorv\source\repos\Trynagle\Trynagle\obj\Debug\Trynagle.csproj.CoreCompileInputs.cache
+C:\Users\idorv\source\repos\Trynagle\Trynagle\obj\Debug\Trynagle.exe
+C:\Users\idorv\source\repos\Trynagle\Trynagle\obj\Debug\Trynagle.pdb
